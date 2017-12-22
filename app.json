@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0"
+    "sdkVersion": "24.0.0",
+    "orientation": "portrait",
+    "loading": {
+      "hideExponentText": true
+    },
+    "ios": {
+      "supportsTablet": true
+    }
   }
 }
